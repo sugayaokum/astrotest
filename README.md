@@ -1,3 +1,5 @@
+https://github.com/sugayaokum/astrotest.git
+
 # Astro Starter Kit: Basics
 
 ```sh
